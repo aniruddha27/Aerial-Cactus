@@ -18,6 +18,10 @@ Check out the accuracy and loss plots  below:
 
 ![acc-loss plot](https://user-images.githubusercontent.com/29707088/58657479-f77d3d80-833b-11e9-8ffa-a542642b718f.png)
 
-Don't forget to check out the ROC curve too, retty helpful.
+ROC curve (looks beautiful when you get good result):
 
 ![roc plot](https://user-images.githubusercontent.com/29707088/58657522-0fed5800-833c-11e9-9346-292cbec5f754.png)
+
+How can I forget the Classification report:
+
+![classification report](https://user-images.githubusercontent.com/29707088/58657915-eed93700-833c-11e9-8994-f80ee950f38c.PNG)
