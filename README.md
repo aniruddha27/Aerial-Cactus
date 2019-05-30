@@ -4,8 +4,11 @@ My take on the Aerial Cactus competition on Kaggle is in the code notebook provi
 
 I have used Google Colaboratory (because who doesn't want to work with more RAM and better GPU). If you don't want to used Google Colaboratory (your loss), comment out the first four cells in the notebook.
 
+Have a look at the imbalanced datset.
 
-![unbalanced](https://user-images.githubusercontent.com/29707088/58657651-60fd4c00-833c-11e9-8a68-3cb3431da907.png)
+![imbalanced](https://user-images.githubusercontent.com/29707088/58657651-60fd4c00-833c-11e9-8a68-3cb3431da907.png)
+
+This will not turn out to be big issue the most frequent class is the class we need to predict
 
 First thing I did was to augment the dataset because we have only 17000 images here, which won't give us any satisfactory result with neural nets. So for this I have simply just appended the images in a list and then used numpy filpud, fliplr, rot90 functions to augment the images. And voila, we now have 70,000 images (something to work with).
 
