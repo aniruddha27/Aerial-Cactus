@@ -25,3 +25,5 @@ ROC curve (looks beautiful when you get good result):
 How can I forget the Classification report:
 
 ![classification report](https://user-images.githubusercontent.com/29707088/58657915-eed93700-833c-11e9-8994-f80ee950f38c.PNG)
+
+I am getting a precision of 97% here for image containing cactus, which is pretty decent.
