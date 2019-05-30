@@ -4,7 +4,7 @@ My take on the Aerial Cactus competition on Kaggle is in the code notebook provi
 
 Quickly have a look at the overview of the competition : https://www.kaggle.com/c/aerial-cactus-identification
 
-I have used Google Colaboratory (because who doesn't want to work with more RAM and better GPU). If you don't want to used Google Colaboratory (your loss), comment out the first four cells in the notebook.
+I have used Google Colaboratory (because who doesn't want to work with more RAM and better GPU). If you don't want to use Google Colaboratory (your loss), comment out the first four cells in the notebook.
 
 Have a look at the imbalanced datset.
 
